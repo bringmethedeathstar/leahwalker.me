@@ -22,7 +22,7 @@
     "vlucas/phpdotenv": "^2.4.0",
     "craftcms/element-api": "2.6.0",
     "craftcms/redactor": "2.4.0",
-    "craftcms/cms": "3.3.17",
+    "craftcms/cms": "3.7.55.2",
     "supercool/buttonbox": "2.0.4",
     "crystal-uk/ratchet": "^3.8",
     "crystal-uk/captain": "^2.1.1",
