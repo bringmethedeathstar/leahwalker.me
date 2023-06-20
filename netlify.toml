@@ -4,7 +4,7 @@
   command = "npm run generate"
 
 [context.live]
-  environment = { API_URL = 'https://api.leahwalker.me/' }
+  environment = { API_URL = 'https://api.literaryleah.co.uk/' }
 
 [[redirects]]
   from = "/*"
